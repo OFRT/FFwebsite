@@ -8,7 +8,7 @@ layui.use('laytpl', function(laytpl){
   ,controller = function(){
       
       
-    var data_url = 'http://ffweb.ofrt.top/data.json';
+    var data_url = 'https://ffweb.ofrt.top/data.json';
       
     // 获取json 数据 
     var json = "";
