@@ -1,0 +1,25 @@
+{
+  "title": "常用"
+  ,"list": [
+    {
+        "title": "百度",
+        "link": "www.baidu.com",
+        "describe":""
+    }
+    ,{
+        "title": "博客",
+        "link": "ofrt.top",
+        "describe":""
+    }
+    ,{
+        "title": "text",
+        "link": "#",
+        "describe":""
+    }
+    ,{
+        "title": "#",
+        "link": "#",
+        "describe":""
+    }
+  ]
+}
